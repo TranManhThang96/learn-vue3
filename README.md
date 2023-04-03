@@ -50,3 +50,5 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+### Highchart API [Highchart](https://api.highcharts.com/highstock/)
